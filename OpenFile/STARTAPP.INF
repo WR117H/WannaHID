@@ -1,0 +1,9 @@
+[Settings]
+ApplicationToStart = EXEC.EXE
+
+[Data]
+FS = 5937313
+HV = 33E33D5F80C4411777B96BCC582D6CD4
+DA = 2024-01-29
+TI = 13:55
+
